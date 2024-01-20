@@ -1,9 +1,14 @@
 # AMPLIFIER_TDA7468_TDA7293
 
 The amplifier is assembled on a TDA7468D running Atmega 328 (Arduino). 2 TDA7294 microcircuits work as a power amplifier.
+
 The library for the audio processor and the control sketch program were written by Alexander Liman.
 Link to his project page: http://rcl-radio.ru/?p=58165
 In addition, on his website you will find many other interesting projects!
+
+About the appearance and functionality, see the first part at the link:
+https://youtu.be/eZJRyMcyyfY
+
 In the second part you will see what this amplifier consists of. Interesting? Follow the link:
 https://youtu.be/hVsfGNAJudA
 
@@ -11,7 +16,7 @@ Amplifier specifications:
 Dimensions: 27 X 12 X 7 cm (L.W.H.)
 Weight: 1475 (without remote control)
 Output power 2X18 Watt (at 8 Ohm load)
-Number of inputs - 3 [RCA - 1 pc. and 3.5 mm jack - 2 pcs.]
+Number of inputs - 3 (RCA - 1 pc. and 3.5 mm jack - 2 pcs.)
 Nonlinear Distortion Ratio no more than: 0.05% (at a frequency of 1 kHz and a power of 2X5 Watts)
 Signal-to-noise ratio: 85 dB
 Channel separation: 88 dB
